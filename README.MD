@@ -36,16 +36,12 @@ TSX = Usado com Typescript ao contrário do JSX que é usado com JS puro.
 DOM = Document Object Model. Forma que o navegador usa para saber onde e como vai exibir cada elemento na tela. 
 Árvore de DOM = Uma estrutura que o navegador cria para representar a página. Essa árvore ajuda o navegador a entender como renderizar a página
 
-DOM Virtual = Cópia do DOM verdadeiro. Usado por bibliotecas e frameworks como o React que irei usar nessa task para melhorar o desempenho das aplicações. O DOM verdadeiro é uma árvore de verdade enquanto o DOM Virtual é uma espécie de rascunho. Quando alguma coisa muda na página, o React age da seguinte forma:
-
-1. Cria uma cópia do DOM no Virtual DOM.
-
-2. Compara o Virtual DOM com o DOM real para ver o que mudou.
-
-3. Atualiza apenas as partes que mudaram no DOM real, em vez de recriar toda a árvore.  
+DOM Virtual = Cópia do DOM verdadeiro. Usado por bibliotecas e frameworks como o React que irei usar nessa task para melhorar o desempenho das aplicações. O DOM verdadeiro é uma árvore de verdade enquanto o DOM Virtual é uma espécie de rascunho. Quando alguma coisa muda na página, o React age da seguinte forma: 1. Cria uma cópia do DOM no Virtual DOM; 2. Compara o Virtual DOM com o DOM real para ver o que mudou; 3. Atualiza apenas as partes que mudaram no DOM real, em vez de recriar toda a árvore. 
 
 Hook = ferramenta do React para adicionar estado e efeitos a componentes.
 Hook useState: É um hook do React que permite adicionar estado (dados que podem mudar) a um componente funcional. Usado nesse código para gerenciar os valores que serão inseridos. 
+
+
 ---
 
 #Log:
