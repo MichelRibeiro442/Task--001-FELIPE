@@ -1,4 +1,22 @@
 #Início:
+Objetivo: 
+Crie um projeto react + typescript
+•⁠  ⁠⁠ao inicializar, deverá conter:
+•⁠  ⁠⁠4 radio buttons: soma, subtraçao, multiplicaçao e divisao
+•⁠  ⁠2 inputs que aceitam somente valores numericos inteiros e um botao “Calcular”
+- o resultado do botao “Calcular” deverá ser exibido logo abaixo e o valor do resultado deve ser baseado com o valor escolhido no radio button.
+Pré-requisito: utilizar o hook “useState” (nativo do react)
+
+
+
+Tecnologias Utilizadas
+
+* [React.js](https://pt-br.reactjs.org/)
+* [Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
+* [JSX](https://pt-br.reactjs.org/docs/introducing-jsx.html)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
 
 Instalar React
 1. Instalar Node.js
