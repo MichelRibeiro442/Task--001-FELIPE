@@ -43,7 +43,6 @@ DOM Virtual = Cópia do DOM verdadeiro. Usado por bibliotecas e frameworks como 
 2. Compara o Virtual DOM com o DOM real para ver o que mudou.
 
 3. Atualiza apenas as partes que mudaram no DOM real, em vez de recriar toda a árvore.  
-
 hook = ferramenta do React para adicionar estado e efeitos a componentes.
 useState: É um hook do React que permite adicionar estado (dados que podem mudar) a um componente funcional. Usado nesse código para gerenciar os valores que serão inseridos. 
 ---
