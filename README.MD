@@ -19,16 +19,7 @@ Explicação da documentação: O JSX é uma extensão de sintaxe para JavaScrip
 TSX = Usado com Typescript ao contrário do JSX que é usado com JS puro.
 
 DOM = Document Object Model. Forma que o navegador usa para saber onde e como vai exibir cada elemento na tela. 
-Árvore de DOM = Uma estrutura que o navegador cria para representar a página. Essa árvore ajuda o navegador a entender como renderizar a página.
-Exemplo: Documento (Raiz)
-  |
-  ├── <body>
-  |     |
-  |     ├── <h1> (Título)
-  |     └── <p> (Parágrafo)
-  └── <footer>
-        |
-        └── <p> (Rodapé)
+Árvore de DOM = Uma estrutura que o navegador cria para representar a página. Essa árvore ajuda o navegador a entender como renderizar a página
 
 DOM Virtual = Cópia do DOM verdadeiro. Usado por bibliotecas e frameworks como o React que irei usar nessa task para melhorar o desempenho das aplicações. O DOM verdadeiro é uma árvore de verdade enquanto o DOM Virtual é uma espécie de rascunho. Quando alguma coisa muda na página, o React age da seguinte forma:
 
