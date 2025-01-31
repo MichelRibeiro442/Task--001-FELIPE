@@ -8,9 +8,8 @@ Instalar React
 2.2 Rodar cd calculator-react-js
 2.3 npm install
 2.4 npm run dev
-
 Fonte: Documentação React (https://pt-br.react.dev/learn/installation)
-
+---
 
 #Conceitos 
 
@@ -31,6 +30,7 @@ DOM Virtual = Cópia do DOM verdadeiro. Usado por bibliotecas e frameworks como 
 
 hook = ferramenta do React para adicionar estado e efeitos a componentes.
 useState: É um hook do React que permite adicionar estado (dados que podem mudar) a um componente funcional. Usado nesse código para gerenciar os valores que serão inseridos. 
+---
 
 #Log:
 - Criado o componente calculator.tsx (usando tsx para que possa utilizar typescript)
