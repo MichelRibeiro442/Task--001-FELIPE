@@ -1,6 +1,6 @@
 Início:
 
-***Instalar React***
+Instalar React
 1. Instalar Node.js
 --- Problema encontrado: " execução de scripts foi desabilitada neste sistema". Desabilitar no PowerShell do Windows. ---
 2. Instalar com comando no console npm create vite@latest - nomear arquivo
@@ -12,7 +12,7 @@ Início:
 Fonte: Documentação React (https://pt-br.react.dev/learn/installation)
 
 
-***Conceitos*** 
+Conceitos 
 
 JSX = HTML "misturado" com JS
 Explicação da documentação: O JSX é uma extensão de sintaxe para JavaScript escrita para ser usada com o React parecida com HTML, mas que, na verdade, é um arquivo JavaScript que precisa ser compilado ou convertido em JavaScript normal.
@@ -41,7 +41,7 @@ DOM Virtual = Cópia do DOM verdadeiro. Usado por bibliotecas e frameworks como 
 hook = ferramenta do React para adicionar estado e efeitos a componentes.
 useState: É um hook do React que permite adicionar estado (dados que podem mudar) a um componente funcional. Usado nesse código para gerenciar os valores que serão inseridos. 
 
-***Log:***
+Log:
 - Criado o componente calculator.tsx (usando tsx para que possa utilizar typescript)
 - Dentro do calculator, foram criados 04 estados para armazenar dados no componente com o uso do hook "useState". Sendo "operation" para armazenar o tipo de operação que será realizada, dois "inputs" para armazenar os números a serem utilizados e "result" para o resultado das operações.
 - Depois, criei uma função para realizar o cálculo das operações a seguir: Soma, subtração, multiplicação e divisão. A função tem o nome de "handleCalculate" pois ao pesquisar em documentações, percebi um padrão com o termo "handle"
