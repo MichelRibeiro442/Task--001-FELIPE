@@ -46,7 +46,7 @@ Hook useState: É um hook do React que permite adicionar estado (dados que podem
 
 ---
 
-#Log:
+## Log:
 - Criado o componente calculator.tsx (usando tsx para que possa utilizar typescript)
 - Dentro do calculator, foram criados 04 estados para armazenar dados no componente com o uso do hook "useState". Sendo "operation" para armazenar o tipo de operação que será realizada, dois "inputs" para armazenar os números a serem utilizados e "result" para o resultado das operações.
 - Depois, criei uma função para realizar o cálculo das operações a seguir: Soma, subtração, multiplicação e divisão. A função tem o nome de "handleCalculate" pois ao pesquisar em documentações, percebi um padrão com o termo "handle"
