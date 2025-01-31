@@ -19,11 +19,11 @@ Tecnologias Utilizadas
 ## Instalar React
 1. Instalar Node.js
 Problema encontrado: " execução de scripts foi desabilitada neste sistema". Desabilitar no PowerShell do Windows. 
-2. Instalar com comando no console npm create vite@latest - nomear arquivo
-2.1 Selecionat React > Typescript
-2.2 Rodar cd calculator-react-js
-2.3 npm install
-2.4 npm run dev
+2. Instalar com comando no console npm create vite@latest - nomear arquivo\
+2.1 Selecionat React > Typescript\
+2.2 Rodar cd calculator-react-js\
+2.3 npm install\
+2.4 npm run dev\
 Fonte: Documentação React (https://pt-br.react.dev/learn/installation)
 ---
 
