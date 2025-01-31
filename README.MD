@@ -4,7 +4,7 @@ Crie um projeto react + typescript
 •⁠  ⁠⁠ao inicializar, deverá conter:
 •⁠  ⁠⁠4 radio buttons: soma, subtraçao, multiplicaçao e divisao
 •⁠  ⁠2 inputs que aceitam somente valores numericos inteiros e um botao “Calcular”
-- o resultado do botao “Calcular” deverá ser exibido logo abaixo e o valor do resultado deve ser baseado com o valor escolhido no radio button.
+- O resultado do botao “Calcular” deverá ser exibido logo abaixo e o valor do resultado deve ser baseado com o valor escolhido no radio button.
 Pré-requisito: utilizar o hook “useState” (nativo do react)
 ---
 Tecnologias Utilizadas
