@@ -1,4 +1,4 @@
-##Início:
+# Início:
 Objetivo: 
 Crie um projeto react + typescript
 •⁠  ⁠⁠ao inicializar, deverá conter:
@@ -16,9 +16,9 @@ Tecnologias Utilizadas
 * [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 ---
 
-##Instalar React
+## Instalar React
 1. Instalar Node.js
---- Problema encontrado: " execução de scripts foi desabilitada neste sistema". Desabilitar no PowerShell do Windows. ---
+Problema encontrado: " execução de scripts foi desabilitada neste sistema". Desabilitar no PowerShell do Windows. 
 2. Instalar com comando no console npm create vite@latest - nomear arquivo
 2.1 Selecionat React > Typescript
 2.2 Rodar cd calculator-react-js
@@ -27,7 +27,7 @@ Tecnologias Utilizadas
 Fonte: Documentação React (https://pt-br.react.dev/learn/installation)
 ---
 
-#Conceitos 
+## Conceitos 
 
 JSX = HTML "misturado" com JS
 Explicação da documentação: O JSX é uma extensão de sintaxe para JavaScript escrita para ser usada com o React parecida com HTML, mas que, na verdade, é um arquivo JavaScript que precisa ser compilado ou convertido em JavaScript normal.
