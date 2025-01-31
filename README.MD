@@ -30,7 +30,7 @@ Fonte: Documentação React (https://pt-br.react.dev/learn/installation)
 ## Conceitos 
 
 JSX = HTML "misturado" com JS
-Explicação da documentação: O JSX é uma extensão de sintaxe para JavaScript escrita para ser usada com o React parecida com HTML, mas que, na verdade, é um arquivo JavaScript que precisa ser compilado ou convertido em JavaScript normal.
+Explicação da documentação: O JSX é uma extensão de sintaxe para JavaScript escrita para ser usada com o React parecida com HTML, mas que, na verdade, é um arquivo JavaScript que precisa ser compilado ou convertido em JavaScript normal.\
 TSX = Usado com Typescript ao contrário do JSX que é usado com JS puro.\
 Explicação da documentação: TSX é essencialmente a mesma coisa que JSX, mas é usada junto com TypeScript. TypeScript é uma superconjunto de JavaScript, ou seja, tudo que você pode fazer em JavaScript pode ser feito em TypeScript, mas TypeScript adiciona tipos de dados e outras funcionalidades de segurança de tipos, que ajudam a evitar erros e melhorar a qualidade do código.
 
