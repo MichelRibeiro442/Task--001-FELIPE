@@ -1,4 +1,4 @@
-#Início:
+##Início:
 Objetivo: 
 Crie um projeto react + typescript
 •⁠  ⁠⁠ao inicializar, deverá conter:
@@ -6,19 +6,17 @@ Crie um projeto react + typescript
 •⁠  ⁠2 inputs que aceitam somente valores numericos inteiros e um botao “Calcular”
 - o resultado do botao “Calcular” deverá ser exibido logo abaixo e o valor do resultado deve ser baseado com o valor escolhido no radio button.
 Pré-requisito: utilizar o hook “useState” (nativo do react)
-
-
-
+---
 Tecnologias Utilizadas
 
 * [React.js](https://pt-br.reactjs.org/)
 * [Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
-* [JSX](https://pt-br.reactjs.org/docs/introducing-jsx.html)
+* [Typescript](https://www.typescriptlang.org/)
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+---
 
-
-Instalar React
+##Instalar React
 1. Instalar Node.js
 --- Problema encontrado: " execução de scripts foi desabilitada neste sistema". Desabilitar no PowerShell do Windows. ---
 2. Instalar com comando no console npm create vite@latest - nomear arquivo
